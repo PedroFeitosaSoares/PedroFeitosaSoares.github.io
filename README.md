@@ -1,4 +1,4 @@
-#Atividade 7
+Atividade 7
 A atividade 7 Consiste em realizar o passo a passo em uma das duas ferramentas apresentadas e enviar relatório contendo:
 
 Links p/ o repositório e p/ a página onde a aplicação foi implantada (GitHub Pages)
